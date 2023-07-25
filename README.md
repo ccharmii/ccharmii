@@ -1,17 +1,16 @@
-### Hi Welcome to Charmi's github ✨
+## Hi Welcome to Charmi's github ✨
 
+### Hi there! I'm Charmi.  
+I'm just colleage student :)  
+My major is AI, Big Data and Management. Doesn't that sound like an interesting major name?  
+  
+🌱 I’m currently studying about Github by myself.  
+🌱 And also I'm currently studying Machine learning with my college friends.  
 
+#### My Activity Accounts ⚡
 <a href="https://blog.naver.com/charmlog" target="_blank"><img src="https://img.shields.io/badge/charmi's blog-b5ebc2?style=for-the-badge&logo=blogger&logoColor=darkgreen"/></a>
 
 <a href="https://instagram.com/m_.car__r/" target="_blank"><img src="https://img.shields.io/badge/charmi's instagram-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-
-
-Hi there! I'm Charmi. 
-I'm just colleage student :) My mojor is AI, Big Data and Management. Doesn't that sound like an interesting major name?
-🌱 I’m currently studying about Github by myself.
-🌱 And also I'm currently studying Machine learning with my college friends. 
-
-
 
 <!--
 **ccharmii/ccharmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
