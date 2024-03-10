@@ -1,10 +1,5 @@
 ## Hi Welcome to Charmi's github ✨
 
-#### My Activity Accounts ⚡
-<a href="https://blog.naver.com/charmlog" target="_blank"><img src="https://img.shields.io/badge/charmi's blog-b5ebc2?style=for-the-badge&logo=blogger&logoColor=darkgreen"/></a>
-
-<a href="https://instagram.com/m_.car__r/" target="_blank"><img src="https://img.shields.io/badge/charmi's instagram-ebb5cb?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-
 <!--
 **ccharmii/ccharmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
