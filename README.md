@@ -1,12 +1,5 @@
 ## Hi Welcome to Charmi's github ✨
 
-### Hi there! I'm Charmi.  
-I'm just colleage student :)  
-My major is AI, Big Data and Management. Doesn't that sound like an interesting major name?  
-  
-🌱 I’m currently studying about Github by myself.  
-🌱 And also I'm currently studying Machine learning with my college friends.  
-
 #### My Activity Accounts ⚡
 <a href="https://blog.naver.com/charmlog" target="_blank"><img src="https://img.shields.io/badge/charmi's blog-b5ebc2?style=for-the-badge&logo=blogger&logoColor=darkgreen"/></a>
 
