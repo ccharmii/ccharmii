@@ -51,7 +51,3 @@
 | 초기 아이디어를 구조화하고 시장 내 유사 서비스와의 차별점을 분석하는 검증 리포트 제공 서비스 개발 | 2025.07 ~ <br> 2025.11 | [Repo](https://github.com/IDEANTIFY) |
 | Diffusion 기반 상품 맞춤형 광고 스토리보드 생성 모델 개발 | 2024.06 ~ <br> 2024.11 | [Repo](https://github.com/ccharmii/Diffusion-Based-Personalized-Ad-Storyboard-Generation) |
 | 유전체 변이 정보를 활용한 암종 분류 AI 모델 개발 | 2024.08 ~ <br> 2024.10 | 상위 14% |
-| Video Retrieval 및 RAG 기반 영화 등급 예측 시스템 개발 | 2024.06 ~ <br> 2024.08 | [Repo](https://github.com/ccharmii/Text-to-Video-Retrieval-Project) |
-| 네이버 블로그 텍스트 데이터 마이닝 및 시계열 트렌드 분석 | 2024.04 ~ <br> 2024.05 | [Repo](https://github.com/ccharmii/NaverBlog-Trend-Analysis) |
-| 패널 설문 응답 여부 예측을 위한 DNN 분류 모델 개발 | 2023.11 ~ <br> 2023.12 | [Repo](https://github.com/ccharmii/Panel-Survey-Response-Prediction) |
-| CJ 상품 데이터 분석 기반 해시태그 큐레이션 판매 전략 제안 | 2023.04 ~ <br> 2023.06 | 본선 진출 / [Repo](https://github.com/ccharmii/CJ-Hashtag-Marketing-Strategy) |
