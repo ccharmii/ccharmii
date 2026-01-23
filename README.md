@@ -54,5 +54,4 @@
 | Video Retrieval 및 RAG 기반 영화 등급 예측 시스템 개발 | 2024.06 ~ <br> 2024.08 | [Repo](https://github.com/ccharmii/Text-to-Video-Retrieval-Project) |
 | 네이버 블로그 텍스트 데이터 마이닝 및 시계열 트렌드 분석 | 2024.04 ~ <br> 2024.05 | [Repo](https://github.com/ccharmii/NaverBlog-Trend-Analysis) |
 | 패널 설문 응답 여부 예측을 위한 DNN 분류 모델 개발 | 2023.11 ~ <br> 2023.12 | [Repo](https://github.com/ccharmii/Panel-Survey-Response-Prediction) |
-| 아파트 실거래가 예측 | 2023.09 ~ <br> 2023.12 | 공공 데이터 결합 기반 아파트 실거래가 예측 모델 개발 |
 | CJ 상품 데이터 분석 기반 해시태그 큐레이션 판매 전략 제안 | 2023.04 ~ <br> 2023.06 | 본선 진출 / [Repo](https://github.com/ccharmii/CJ-Hashtag-Marketing-Strategy) |
