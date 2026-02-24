@@ -18,6 +18,7 @@
 |:---:|:---|:---|
 | 2024.10 ~ | 국민대학교 | 학부연구생 |
 | 2022.03 ~ | 국민대학교 | AI빅데이터융합경영학과 |
+| 2022.03 ~ | 네이버 커넥트재단 | Naver Boostcamp AI Tech 8기 |
 | 2025.03 ~ 2025.06 | Tilda | ML Engineer Intern |
 | 2021.12 ~ 2025.03 | 서브웨이 | 아르바이트 |
 | 2025.03 ~ 2025.12 | [인공지능학회 X:AI](https://www.youtube.com/@KMUXAI) | 6기 운영진 |
@@ -44,6 +45,7 @@
 ## 💻 Projects
 | 프로젝트 | 기간 | 비고 |
 |:---|:---|:---|
+| 논문 학습 튜터 개발 | 2026.01 ~ <br> 2026.02 | [Repo](https://github.com/boostcampaitech8/pro-nlp-finalproject-nlp-02)
 | 수능형 문제 풀이 모델 개발 | 2025.12 ~ <br> 2026.01 | [Repo](https://github.com/boostcampaitech8/pro-nlp-generationfornlp-nlp-02)
 | Open-Domain Question Answering | 2025.11 | [Repo](https://github.com/boostcampaitech8/pro-nlp-mrc-nlp-02)
 | 매장 매출 진단 및 맞춤형 마케팅 전략 제안 AI Agent 개발 | 2025.09 ~ <br> 2025.10 | [Repo](https://github.com/ccharmii/2025-BigContest-GPS) |
